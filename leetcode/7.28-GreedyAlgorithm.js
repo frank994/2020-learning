@@ -41,3 +41,11 @@ function greedyAlgorithm(money = 41) {
 }
 
 greedyAlgorithm(120);
+
+
+
+/**
+ * 
+ * 核心：局部最优解 -> 全局最优解
+ * 链接：https://zhuanlan.zhihu.com/p/53334049
+ */
